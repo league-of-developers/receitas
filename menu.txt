@@ -1,8 +1,8 @@
 Pratos
 - Feijoada do PCzaum
-
+- Frango com batata
 Preços 
 - Preco R$ 20,00
-
+- Preço R$ 30,00
 
 
