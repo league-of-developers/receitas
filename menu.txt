@@ -9,4 +9,7 @@ Preços
 - Preço R# 1,99 
 - Preco R$ 20,00
 
-
+Formas de Pagamento
+- Cartão Nubank
+- Cartão Debido
+- Vale Alimentação
