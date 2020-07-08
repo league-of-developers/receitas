@@ -6,5 +6,5 @@
 
 
 ## Preços 
-* Tudo por R$ 1,99 :moneybag: :moneybag: :moneybag:
+* Tudo por R$ 1,99 :moneybag: :moneybag: :moneybag: :moneybag:
 
