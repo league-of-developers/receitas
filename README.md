@@ -5,7 +5,7 @@
 ##### Repositório criado para registrar receitas simples e saborosas.
 
 
-* ### Cozinheiros
+### Cozinheiros
 
 [![](https://avatars1.githubusercontent.com/u/19213771?v=4&s=80)](https://github.com/JoaoCarlosAzevedo) |  [![](https://avatars1.githubusercontent.com/u/34784913?v=4&s=80)](https://github.com/Gtsuga)  | [![](https://avatars3.githubusercontent.com/u/67388846?v=4&s=80)](https://github.com/paulocesarca)  | [![](https://avatars1.githubusercontent.com/u/67875492?v=4&s=80)](https://github.com/Thiagovieira461) | [![](https://avatars2.githubusercontent.com/u/18631740?v=4&s=80)](https://github.com/JulianoGTZ)
 -|-|-|-|-
@@ -13,5 +13,5 @@
 
 
 
-* ### Links:
-[TasteMade](https://www.tastemade.com.br/)
+### Links:
+* [TasteMade](https://www.tastemade.com.br/)
