@@ -1,6 +1,6 @@
 # Geléia de Pimenta
 
-![Peper-jelly-image]/(https://www.colherdesopa.com.br/wp-content/uploads/2020/01/Miniatura_site_GELEIADEPIMENTA.jpg)
+![Peper-jelly-image](https://www.colherdesopa.com.br/wp-content/uploads/2020/01/Miniatura_site_GELEIADEPIMENTA.jpg)
 
 Geléia de Pimenta deixa tudo surpreendentemente delicioso, e prepará-la em casa é simples e bem barato! Com seu sabor doce e picante, essa geléia de pimenta combina com queijos, torradas e vai bem com carnes e pães.
 
